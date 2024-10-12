@@ -1,2 +1,2 @@
 # Dimitar871.github.io
-Dimitar Yosifov's repository
+// PHP files can no be run through github
